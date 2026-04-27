@@ -1,7 +1,9 @@
 ---
 title: Welcome to DS Quartz 4 Test
 tags:
-	-intro
+  - pondering
+  - books
+  - normanlindsay
 ---
 
 # Heading Here
